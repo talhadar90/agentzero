@@ -1,0 +1,4 @@
+crewai
+openai
+requests
+python-dotenv
